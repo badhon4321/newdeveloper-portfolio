@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.kichu-akta{
+    color: blueviolet;
+}
+.rong-bold{
+    font-size: 30px;
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.koci-khoka{
+    width: 200%;
+    padding-left: 5%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blueviolet,chocolate);
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 700px;
+    color: white;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.choto-ho{
+    
+}
